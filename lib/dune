@@ -1,0 +1,4 @@
+(library (name lib) (public_name lib))
+
+(copy_files (files ../file))
+
